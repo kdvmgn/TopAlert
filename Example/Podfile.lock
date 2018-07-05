@@ -1,0 +1,16 @@
+PODS:
+  - TopAlert (0.1.0)
+
+DEPENDENCIES:
+  - TopAlert (from `../`)
+
+EXTERNAL SOURCES:
+  TopAlert:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TopAlert: 9336e6e266c31ae56270eae085e5395a153a6d71
+
+PODFILE CHECKSUM: fb649bd9c976fcdb199bff3f091dd86ef24d9f8c
+
+COCOAPODS: 1.4.0
