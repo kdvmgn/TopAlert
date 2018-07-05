@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TopAlert_Tests' do
+  pod 'TopAlert', :path => '../'
+  
+  
+end
